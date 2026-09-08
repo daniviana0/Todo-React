@@ -1,0 +1,4 @@
+-- Configuração do GIT 
+git config --global user.name daniviana0
+git config --global user.email danivianadecarvalho@gmail.com
+
